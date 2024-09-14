@@ -1,0 +1,7 @@
+discord.py
+aiosqlite
+easy_pil
+aiogram
+tweety-ns
+python-dotenv
+pyyaml
